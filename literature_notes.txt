@@ -1,0 +1,21 @@
+The following is a table with the headers: 
+"Information"	
+"cenobamate max dose"	
+"Percentage Difference from Placebo"
+
+Each row starts with a description of a symptom
+
+Information	cenobamate max dose	Percentage Difference from Placebo
+median seizure reduction more than placebo	200 mg	34.1%
+somnolence	200 mg	10.2%
+dizziness	200 mg	5.6%
+nausea	200 mg	6.9%
+fatigue	200 mg	4.2%
+nystagmus	200 mg	9.7%
+balance disorder	200 mg	7.1%
+urinary tract infection	200 mg	6.2%
+nasopharyngitis	200 mg	5.3%
+tremor	200 mg	3.4%
+constipation	200 mg	5.3%
+diarrhea	200 mg	5.3%
+vomiting	200 mg	3.5%
